@@ -1,2 +1,3 @@
-# LearnGit
-This is Git learning repository
+# LearnGit :smile:
+
+This repository is for learning purpose.
